@@ -3,6 +3,9 @@ The controlnet project is now translated into Hebrew
 
 ![Image1](image.png)
 
+תוכל להוריד את הפרויקט המקורי [כאן](https://github.com/Mikubill/sd-webui-controlnet)
+ואז להוריד את השיחרור ולהעתיק לתקיית הפרויקט שלך
+
 ## הוראות התקנה
   ## התקנה ידנית
 1. את הקובץ  `controlnet_ui_group.py` עליך לשים בנתיב `stable-diffusion-webui\extensions\sd-webui-controlnet\scripts\controlnet_ui\controlnet_ui_group.py`
